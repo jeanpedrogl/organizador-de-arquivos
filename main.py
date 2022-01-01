@@ -40,8 +40,5 @@ botao = Button(text='Organizar', bg='blue',
                font=('ARIAL', 13), command=botao)
 botao.pack()
 
-status = Label()
-status.pack()
-
 
 janela.mainloop()
